@@ -1,0 +1,8 @@
+folium
+pandas
+matplotlib
+seaborn
+pgeocode
+sklearn
+Pillow
+plotly
